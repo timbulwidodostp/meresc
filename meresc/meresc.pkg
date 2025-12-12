@@ -1,4 +1,8 @@
-D 'xtqreg': Linear Quantile Mixed Models Use xtqreg With STATA 19
+D 'meresc': Rescaled results for nonlinear mixed models Use meresc With STATA 19
 D
-F xtqreg.ado
-F xtqreg.sthlp
+F meresc.ado
+F meresc.mata
+F meresc.mo
+F meresc.sthlp
+F meresc_var_u.mata
+F meresc_var_u.mo
