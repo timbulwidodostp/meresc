@@ -1,6 +1,8 @@
 # meresc
 Rescaled results for nonlinear mixed models Use meresc With STATA 19
 
+https://www.youtube.com/watch?v=_ZTFeXsAwF0
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
